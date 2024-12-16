@@ -18,11 +18,9 @@ body {
   }
   
   @media (max-width: 768px) {
-
-  .section { 
+    .section { 
     text-align: center;
-  }
-
+    }
   }
   .mainElement {
     display: block;
